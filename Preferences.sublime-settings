@@ -22,7 +22,9 @@
 	"hot_exit": false,
 	"ignored_packages":
 	[
-		"Vintage"
+		"A File Icon",
+		"Vintage",
+		"zzz A File Icon zzz"
 	],
 	"remember_open_files": false,
 	"rulers":
